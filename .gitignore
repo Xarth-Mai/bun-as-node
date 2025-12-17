@@ -1,0 +1,25 @@
+# Makepkg artifacts
+*.pkg.tar.zst
+*.pkg.tar.xz
+*.pkg.tar.gz
+pkg/
+src/
+
+# Compressed files
+*.tar
+*.tar.*
+*.zip
+
+# Logs
+*.log
+
+# Temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.iml
